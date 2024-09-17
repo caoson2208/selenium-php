@@ -1,1 +1,1 @@
-{"version":1,"defects":{"LoginTest::testLogin":8,"LoginTest::testLoginFail":8},"times":{"LoginTest::testLogin":0.734,"LoginTest::testLoginFail":1.069}}
+{"version":1,"defects":{"LoginTest::testLogin":8,"LoginTest::testLoginFail":8,"LoginTest::testLoginSuccess":8,"CountriesTest::testCountriesSuccess":8,"LoginTest::testLoginWithEmailInvalid":8},"times":{"LoginTest::testLogin":0.734,"LoginTest::testLoginFail":0.942,"LoginTest::testLoginSuccess":1.656,"CountriesTest::testCountriesSuccess":2.187,"LoginTest::testLoginWithEmailInvalid":0.247}}
